@@ -9,6 +9,14 @@
 
 Basic theme for [Jekyll](https://jekyllrb.com)-based websites. Focuses on basic pages for examples/demos, and redirects to other URLs.
 
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 Is (was) used as the base for several projects started by Joel Purra in late 2013 and during 2014, for example:
 
 - Projects related to the European Parliament
